@@ -1,0 +1,17 @@
+div {
+text-align: center;
+color: rgb(255, 7, 7);
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    border-radius: 10px;
+
+}
+a {
+    color: white;
+    background-color: rgb(235, 60, 60);
+    border-radius: 10px;
+    font-size: x-large;
+}

@@ -1,0 +1,92 @@
+h1{
+    text-align: center;
+}
+
+.um{
+    background-color: antiquewhite;
+    margin-right: 1750px;
+}
+
+
+.dois{
+    color: aliceblue;
+    background-color: blueviolet;
+    margin-left: 20px;
+    margin-right: 1700px;
+}
+
+.tres{
+    background-color: blue;
+    color: blanchedalmond;
+    margin-left: 40px;
+    margin-right: 1750px;
+}
+
+.quatro{
+    background-color: brown;
+    color: azure;
+    margin-left: 60px;
+    margin-right: 1650px;
+}
+
+.cinco{
+    background-color: rgb(224, 168, 94);
+    color: rgb(53, 46, 46);
+    margin-left: 80px;
+    margin-right: 1600px;
+}
+
+.seis{
+    background-color: rgb(40, 204, 245);
+    color: aliceblue;
+    margin-left: 100px;
+    margin-right: 1550px;
+}
+
+.sete{
+    background-color: red;
+    color: black;
+    margin-left: 120px;
+    margin-right: 1600px;
+}
+
+.oito{
+    background-color: black;
+    color: red;
+    margin-left: 140px;
+    margin-right: 1550px;
+}
+.img{
+    display: flex;
+    margin-top: 10px;
+   
+}
+
+.imgs{
+    display: flex;
+    margin-top: 10px;
+}
+
+.arrasca{
+    margin-right: 10px;
+}
+
+.bh{
+    margin-right: 10px;
+}
+
+.gabigol{
+    margin-right: 10px;
+}
+
+.zico{
+    margin-right: 10px;
+}
+a:link, a:visited, a:active {
+	text-decoration:none;
+	}
+a:hover {
+	text-decoration: underline;
+	color:#000;
+	background:rgb(255, 0, 0);
+	}
